@@ -1,0 +1,19 @@
+.submit-btn {
+    background: red;
+    border-color: blue;
+    color: white;
+    text-transform: capitalize;
+    width: 22rem;
+    height: 3em;
+    font-size: 22px;
+    border-radius: 20px;
+    line-height: 2.5;
+}
+
+:root {
+    --main-color: #f5ff;
+}
+
+h2 {
+    color: blue;    
+}
