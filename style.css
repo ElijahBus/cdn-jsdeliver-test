@@ -13,3 +13,7 @@ submit-btn {
 :root {
     --main-color: #f5ff;
 }
+
+h2 {
+    color: blue;    
+}
